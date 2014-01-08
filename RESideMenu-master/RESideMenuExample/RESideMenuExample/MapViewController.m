@@ -114,6 +114,7 @@
     annotationView.canShowCallout = YES;
     
     return annotationView;
+    
 }
 
 #pragma mark -
